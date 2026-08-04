@@ -2,6 +2,7 @@
 
 # Task: Control 4 Servo Motors Using Arduino (Tinkercad)
 
+
 ## Project Overview
 
 This project was developed using **Arduino Uno** and **Tinkercad Circuits**.
@@ -115,6 +116,26 @@ The motors first perform the Sweep movement for two seconds, then move to 90° a
 - After two seconds, every motor stops at 90°.
 
 ---
+# Opening the Project
+
+This project is available on Tinkercad through the shared project link.
+
+To open and test the project:
+
+1. Open the Tinkercad project using the following link:
+
+   **Project Link:**
+   
+  https://www.tinkercad.com/things/3HSlfJO0BRY/editel?returnTo=%2Fdashboard&sharecode=c_QJsOk_RFkSIqGluxzmt632wtR49dHIzO7BxZQ7aFg
+
+3. Sign in to your Tinkercad account if required.
+
+4. Open the circuit.
+
+5. Click **Start Simulation** to run the project.
+
+6. The four servo motors will perform the Sweep movement for two seconds, then stop and hold at **90°**.
+
 
 # Possible Problems
 
